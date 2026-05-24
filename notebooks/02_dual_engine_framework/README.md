@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a dual-engine framework for optimising 5G network energy consumption using surrogate-based optimisation and offline reinforcement learning. The project was developed as part of the dissertation:
 
-**Towards Sustainable 5G Networks: A Twin-Engine Framework Using Offline Reinforcement Learning and Surrogate-Based Optimization**
+**Towards Sustainable 5G Networks: A Dual-Engine Framework Using Offline Reinforcement Learning and Surrogate-Based Optimization**
 
 Author: **Mubanga Nsofu**
 
