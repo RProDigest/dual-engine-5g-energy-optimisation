@@ -1,4 +1,4 @@
-# Data README
+# Data dictionary
 
 This folder documents the dataset used in this project on AI/ML-based 5G energy consumption modelling.
 
