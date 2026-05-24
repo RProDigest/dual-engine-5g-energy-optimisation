@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/github_banner.png" alt="Dual-Engine 5G Energy Optimisation Banner" width="100%">
+</p>
+
+<br>
+
+
+
 # Dual-Engine 5G Energy Optimisation
 ## By Mubanga Nsofu, University of East London
 
