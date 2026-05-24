@@ -1,0 +1,11 @@
+{
+  "batch_size": 1024,
+  "actor_lr": 0.00032830629161021904,
+  "critic_lr": 0.00041119471170054527,
+  "expectile": 0.6745453846328286,
+  "weight_temp": 0.6126412103516269,
+  "best_savings_pct": -44.6432,
+  "n_trials_run": 20,
+  "tune_steps": 1000,
+  "algorithm": "IQL"
+}

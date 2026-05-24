@@ -1,0 +1,10 @@
+{
+  "batch_size": 512,
+  "actor_lr": 0.0005105903209394755,
+  "critic_lr": 0.00010485387725194633,
+  "alpha": 4.665303012212831,
+  "best_savings_pct": -42.803,
+  "n_trials_run": 20,
+  "tune_steps": 1000,
+  "algorithm": "TD3+BC"
+}

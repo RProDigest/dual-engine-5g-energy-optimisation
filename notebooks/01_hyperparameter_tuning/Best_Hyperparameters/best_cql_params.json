@@ -1,0 +1,10 @@
+{
+  "batch_size": 256,
+  "actor_lr": 0.000888966790701893,
+  "critic_lr": 0.0009239150319627245,
+  "conservative_weight": 1.3690608760126288,
+  "best_savings_pct": -44.1872,
+  "n_trials_run": 20,
+  "tune_steps": 1000,
+  "algorithm": "CQL"
+}
